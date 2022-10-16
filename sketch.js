@@ -5,11 +5,11 @@ const Bodies = Matter.Bodies;
 const Body = Matter.Body;
 
 function preload(){
-  bg_img  = loadImage("./images/bg.webp")
-  helicopter_img = loadImage("./images/heli.png")
-  human_img = loadImage("./images/human.png")
-  boat_img = loadImage("./images/boat.png")
-  packet_img = loadImage("./images/packet.png")
+  bg_img  = loadImage("bg.webp")
+  helicopter_img = loadImage("heli.png")
+  human_img = loadImage("human.png")
+  boat_img = loadImage("boat.png")
+  packet_img = loadImage("packet.png")
 
 }
 
